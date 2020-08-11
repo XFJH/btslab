@@ -1,5 +1,8 @@
 ## instatall environment
+
 * PHP 5.4.16 (DO NOT USE PHP 7)
+
+## Summary
 
 BTS PenTesting Lab is an open source vulnerable web application, created by Cyber Security & Privacy Foundation (www.cysecurity.org). It can be used to learn about many different types of web application vulnerabilities.
 
